@@ -15,3 +15,4 @@ Plage d'[id](https://wiki.dolibarr.org/index.php?title=List_of_modules_id) séle
 - 172958 : ~~ProductNormalizer~~
 - 172959 : ApproVision
 - 172960 : DoliTime
+- 172961 : EasyReport
