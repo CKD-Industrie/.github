@@ -14,5 +14,5 @@ Plage d'[id](https://wiki.dolibarr.org/index.php?title=List_of_modules_id) séle
 - 172957 : ~~SmartBooking~~
 - 172958 : ~~ProductNormalizer~~
 - 172959 : [ApproVision](https://github.com/CKD-Industrie/approvision)
-- 172960 : [DoliTime](https://github.com/CKD-Industrie/doltime)
+- 172960 : [DoliTime](https://github.com/CKD-Industrie/dolitime)
 - 172961 : [DoliSurvey](https://github.com/CKD-Industrie/dolisurvey)
